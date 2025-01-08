@@ -1,0 +1,10 @@
+# Ignore build output
+target/
+
+# Ignore photos directory if it contains temporary files
+photos/
+
+# Ignore system-generated files (if any in the future)
+*.log
+*.tmp
+
